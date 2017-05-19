@@ -3,7 +3,7 @@ class Et < Formula
   homepage "https://mistertea.github.io/EternalTCP/"
   url "https://github.com/MisterTea/EternalTCP/archive/et-v3.0.2.tar.gz"
   version "3.0.2"
-  sha256 "7053d8f1be9c9c9e5467bbc250dc4fba08843f38bd563c6cf4bc474b135e1269"
+  sha256 "31741be1c8adfea7e43703a01e6a2ca91dac514869d49d855140c4abac8c3cb4"
 
   depends_on "cmake" => :build
 
